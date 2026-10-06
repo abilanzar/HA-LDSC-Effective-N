@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.gz
+*.tsv
+*.log
+*.out
+*.sumstats
+*.sumstats.gz
